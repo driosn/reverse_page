@@ -1,0 +1,57 @@
+.backview{
+    background-image: url("../img/map2.png");
+    background-size: cover;
+	width:auto; 
+	height:100vh;	
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    flex-direction: column;
+}
+.homeview {
+    background-size: cover;
+    flex-wrap: wrap;
+}
+
+.padre {
+margin: 1rem;
+padding: 1rem;
+text-align: center;
+}
+.title{
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.subtitle{
+    margin-top: 0px;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+.kTitle{
+    margin-top: 7px;
+}
+.column {
+    margin-top: -30px;
+    float: left;
+    padding: 20px;
+    
+}
+.border{
+    width: 120px;
+    height: 120px;
+    border-radius:150px;
+    box-shadow: 2px 2px 10px rgb(92, 91, 91);
+    background-color: white;
+}
+.border:hover{
+    transform: scale(1.07);
+    box-shadow: 2px 2px 10px rgb(3, 3, 3);
+}
+.log{
+    width: 120px;
+    height: 120px;
+    margin-bottom: -20px;
+}
