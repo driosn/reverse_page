@@ -1,0 +1,17 @@
+.navbar-item {
+    width: 220px;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding: 0px;
+    border: 0.5 solid white;
+}
+
+.navbar-item h5 {
+    display: inherit;
+    align-items: center;
+}
+
+.navbar-item img {
+    width: 30px;
+}
