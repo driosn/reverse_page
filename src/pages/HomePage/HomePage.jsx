@@ -2,7 +2,7 @@ import React from 'react';
 
 import './styles/HomePage.css';
 
-import Logo from '../../assets/images/logo.png';
+import ReverseLogo from '../../assets/images/reverse_icon.png';
 import Cripto from '../../assets/images/lock3.png';
 import Estegano from '../../assets/images/stenography.png';
 import Sql from '../../assets/images/sql.png';
@@ -13,8 +13,7 @@ const HomePage = () => {
     <div className="backview">
         <div className="homeview">     
             <div id="padre" className="padre">
-                <img src={Logo} className='log' alt="LogoPage"/>
-                <h2 className="title">Reverse</h2>
+                <img src={ReverseLogo} className='log' alt="LogoPage"/>
                 <h5 className="subtitle">Conquista el mundo con tus habilidades</h5>
             </div> 
          <center>
