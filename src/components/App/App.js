@@ -10,7 +10,7 @@ class App extends React.Component {
             <BrowserRouter>
                 <Layout>
                     <Switch>
-                        <Route exact path="/home" component={HomePage}/>
+                        <Route exact path="/" component={HomePage}/>
                     </Switch>
                 </Layout>
             </BrowserRouter>
