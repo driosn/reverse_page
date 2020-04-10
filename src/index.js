@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import 'bootstrap/dist/css/bootstrap.css';
-import './globals.css';
+import './index.css';
 
-import Navbar from './components/Navbar';
+import App from './components/App/App';
 
 
 // import App from './components/App';
@@ -12,7 +12,7 @@ import Navbar from './components/Navbar';
 const container = document.getElementById('app');
 
 ReactDOM.render(
-  <Navbar />,
+  <App/>,
   container
 );
 

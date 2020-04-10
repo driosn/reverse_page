@@ -1,10 +1,13 @@
 import React from 'react';
-import '../styles/home.style.css'
-import Logo from '../img/logo.png'
-import Cripto from '../img/lock3.png'
-import Estegano from '../img/stenography.png'
-import Sql from '../img/sql.png'
-import Analisis from '../img/analisis_forense.png'
+
+import './styles/HomePage.css';
+
+import Logo from '../../assets/images/logo.png';
+import Cripto from '../../assets/images/lock3.png';
+import Estegano from '../../assets/images/stenography.png';
+import Sql from '../../assets/images/sql.png';
+import Analisis from '../../assets/images/analisis_forense.png';
+
 const HomePage = () => {
     return(
     <div className="backview">

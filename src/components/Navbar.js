@@ -2,12 +2,12 @@ import React from 'react';
 
 import './styles/Navbar.css';
 
-import reverseLogo from '../images/reverse_icon_horizontal.svg';
-import menuIcon from '../images/menu_icon.svg';
-import challengesIcon from '../images/challenge_icon.svg';
-import toolsIcon from '../images/tools_icon.svg';
-import newChallengeIcon from '../images/new_challenge_icon.svg';
-import avatarExampleImg from '../images/avatar_image.svg';
+import reverseLogo from '../assets/images/reverse_icon_horizontal.svg';
+import menuIcon from '../assets/images/menu_icon.svg';
+import challengesIcon from '../assets/images/challenge_icon.svg';
+import toolsIcon from '../assets/images/tools_icon.svg';
+import newChallengeIcon from '../assets/images/new_challenge_icon.svg';
+import avatarExampleImg from '../assets/images/avatar_image.svg';
 
 
 import NavbarItem from './NavbarItem.js';

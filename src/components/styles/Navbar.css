@@ -38,6 +38,7 @@
     width: inherit;
     height: inherit;
     display: flex;
+    background-color: #192131;
 }
 
 .actions-container .navbar-nav-container{
