@@ -1,0 +1,17 @@
+.main div .category-name {
+    color: white;
+}
+
+.main .top-options {
+    display: flex;
+    align-items: center;
+}
+
+.main .btn-secondary.dropdown-toggle {
+    color: #8B90A2;
+    background-color: white;
+}
+
+.main .problems-list {
+    margin-top: 30px;
+}

@@ -5,6 +5,7 @@
 	height:100vh;	
     display:flex;
     justify-content:space-around;
+    background-color: white;
     flex-wrap:wrap;
     flex-direction: column;
 }

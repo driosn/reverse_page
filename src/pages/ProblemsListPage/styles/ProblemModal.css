@@ -1,0 +1,28 @@
+.problem-modal .modal-content{
+    background-color: #192131;
+    border-radius: 12px;
+    border: 1px solid white;
+    color: white;
+}
+
+.problem-modal .modal-content .modal-header .close {
+    color: white;
+}
+
+.problem-modal .modal-body .problem-description {
+    border-radius: 12px;
+    background-color: white;
+}
+
+.problem-modal .modal-body .problem-description #description-lbl {
+    color: #212529;
+}
+
+.problem-modal .modal-body .problem-description #description-content {
+    color: #8B90A2;
+    font-family: 'Arial';
+}
+
+.problem-modal .modal-footer {
+    border: none;
+}

@@ -1,0 +1,11 @@
+.problems-table .table-bordered td{
+    border: 1px solid#192131;
+}
+
+.problems-table .table-bordered th{
+    border: 1px solid#192131;
+}
+
+.problems-table .btn-link {
+    padding: 0px;
+}
