@@ -1,0 +1,44 @@
+.link-card {
+    all: unset;
+}
+
+.link-card:hover {
+    all: unset;
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.card-shape {
+    height: 180px;
+    width: 400px;
+    background-color: white;
+    border-radius: 15px;
+    border: 8px solid #343a40;
+    display: flex;
+    align-items: center;
+}
+
+.card-shape .img-container {
+    border: 1px solid #343a40;
+    border-radius: 100%;
+    display: flex;
+    padding: 10px;
+}
+
+.card-shape #category-img {
+    height: 100px;
+}
+
+div .text-container {
+    display: flex;
+    flex-direction: column;
+}
+
+div .text-container #small-description {
+    font-family: 'Arial', 'Do Hyeon', 'Roboto';
+}
+
+div .text-container #problems-quantity {
+    align-self: flex-end;
+    justify-self: flex-end;
+}
