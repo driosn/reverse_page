@@ -8,7 +8,7 @@ class CategoryCard extends React.Component {
 
     render() {
         return(
-            <a href="#" className="link-card">
+            <a href="/#" className="link-card">
                 <div className="card-shape px-4 py-4">
                     <div className="img-container">
                         <img id="category-img" src={Lock}/>
