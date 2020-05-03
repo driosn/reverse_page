@@ -1,0 +1,22 @@
+.newch{
+    display: flex;
+    justify-content: center;
+    
+}
+.ktitulo{
+    color: white;
+    margin-top: 15.0px;
+}
+.sel{
+    color: white;
+    float: left;
+}
+.pos1{
+    width: 400px;
+    margin-left: 50px;
+    float: left;
+}
+.pos{
+    width: 400px;
+    margin-left: 50px;
+}
