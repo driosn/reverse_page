@@ -5,7 +5,10 @@ import Layout from '../Layout';
 import HomePage from '../../pages/HomePage/HomePage';
 import ProblemsListPage from '../../pages/ProblemsListPage/ProblemsListPage';
 import CategoryPage from '../../pages/CategoryPage/CategoryPage';
+
 import AuthPage from '../../pages/AuthPage/AuthPage';
+import UChallenge from '../../pages/UploadChallengePage/UChallengePage';
+
 
 class App extends React.Component {
     render() {
@@ -19,6 +22,8 @@ class App extends React.Component {
                                 <Route exact path="/" component={ProblemsListPage}/>
                                 <Route exact path="/home" component={HomePage}/>
                                 <Route exact path="/category" component={CategoryPage}/>
+                                <Route exact path="/createChallenge" component={UChallenge}/>
+
                             </Layout>
                         </Switch>
                     </Switch>
