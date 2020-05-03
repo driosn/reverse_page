@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="299" height="275.38" viewBox="0 0 299 275.38">
+  <g id="Group_8" data-name="Group 8" transform="translate(-258 -193.62)">
+    <g id="reverse_icon" transform="translate(258 193.62)">
+      <path id="Union_2" data-name="Union 2" d="M51.654,181.805A84.585,84.585,0,0,1,71.995,20.232l-.543-15.97A4,4,0,0,1,77.447.66L116.76,23.306a4,4,0,0,1,.063,6.895L79.051,52.9A4,4,0,0,1,72.993,49.6l-.3-8.792C44.978,46.836,24.026,72.688,24.026,103.4c0,35.24,27.376,63.91,61.026,63.91,33.4,0,60.78-28.454,61.025-63.429h0a11.533,11.533,0,1,1,23.065,0A84.171,84.171,0,0,1,154.7,151.165a84.826,84.826,0,0,1-37.21,30.641,84.854,84.854,0,0,1-65.838,0Z" transform="translate(65.428 -0.119)" fill="#fff"/>
+      <text id="Reverse" transform="translate(0 258.38)" fill="#fff" font-size="87" font-family="DoHyeon-Regular, Do Hyeon"><tspan x="0" y="0">Reverse</tspan></text>
+    </g>
+  </g>
+</svg>

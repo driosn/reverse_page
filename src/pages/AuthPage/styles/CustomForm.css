@@ -1,0 +1,19 @@
+.custom-form-container {
+    border: 1px solid #192131;
+    border-radius: 10px;
+    box-shadow: 6px 6px 20px #888888;
+}
+
+.custom-form-container .fullName-container {
+    display: flex;
+}
+
+input {
+    width: 400px;
+}
+
+.custom-form-container form .btn {
+    background-color: #192131;
+    border-radius: 10px;
+    border: none;
+}
