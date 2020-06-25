@@ -25,7 +25,7 @@ class AuthPage extends React.Component {
                             </div>
                         </div>
                         <div className="col-sm-12 col-md-7 form-container">
-                            <RegisterForm/>
+                            <LoginForm/>
                         </div>
                     </div>
                 </div>

@@ -38,13 +38,13 @@ class Navbar extends React.Component {
                           <div className="p-4 navbar-nav-container">
                             <ul className="navbar-nav mr-auto">
                                 <li className="nav-item">
-                                    <NavbarItem itemName="Retos" itemIcon={challengesIcon}/>
+                                    <NavbarItem itemName="Retos" itemIcon={challengesIcon} route="/problems"/>
                                 </li>
                                 <li className="nav-item">
-                                    <NavbarItem itemName="Herramientas" itemIcon={toolsIcon}/>
+                                    <NavbarItem itemName="Herramientas" itemIcon={toolsIcon} route="#"/>
                                 </li>
                                 <li className="nav-item">
-                                    <NavbarItem itemName="Crear Reto" itemIcon={newChallengeIcon}/>
+                                    <NavbarItem itemName="Crear Reto" itemIcon={newChallengeIcon} route="/createChallenge"/>
                                 </li>
                             </ul>
                           </div>
@@ -56,10 +56,10 @@ class Navbar extends React.Component {
                           <div className="p-4 navbar-nav-container">
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item">
-                                    <NavbarItem itemName="Perfil" itemIcon={challengesIcon}/>
+                                    <NavbarItem itemName="Perfil" itemIcon={challengesIcon} route="/#"/>
                                 </li>
                                 <li className="nav-item">
-                                    <NavbarItem itemName="Cerrar Sesión" itemIcon={toolsIcon}/>
+                                    <NavbarItem itemName="Cerrar Sesión" itemIcon={toolsIcon} route="/"/>
                                 </li>
                             </ul>
                           </div>
